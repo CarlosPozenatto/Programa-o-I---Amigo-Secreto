@@ -1,0 +1,4 @@
+Par 1 = carlos -> vitor
+Par 2 = joao -> carlos
+Par 3 = rafael -> joao
+Par 4 = vitor -> rafael
